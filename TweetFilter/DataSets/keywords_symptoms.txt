@@ -1,0 +1,111 @@
+Throat narrows
+throat collapses
+Upper airway collapses
+pharyngeal collapses
+Obesity
+Alteration in upper airway muscle
+Pharyngeal neuropathy
+Fluid shift towards the neck
+Hypoxia
+intermittent hypoxia
+Airway obstruction
+Epiglottis
+Difficult airway
+Imbalance in the respiratory control
+Reduction in upper airway dimensions
+Pharyngeal collapsibility
+Reduced neuromuscular compensation
+Pharyngeal reflexes
+Craniofacial dysmorphism
+Micro-arousals
+arousals
+sleep fragmentation
+hypercapnia
+Respiratory effort
+Oxidative stress
+Inflammation
+Pharyngeal neuropathy
+Pharyngeal nerve alterations
+Nocturnal hypoxaemia
+Respiratory arousal threshold
+Loop gain
+Obstructed breathing
+Intrathoracic pressure
+Sleep deprivation
+Sympathetic activation
+Wakefulness
+Vagal activation
+Bradycardia
+Daytime sleepiness
+hypersomnia
+Excessive daytime sleepiness
+EDS
+Snoring
+Sleepiness at the wheel
+near miss accidents
+sleep related accidents
+Non restorative sleep
+Fatigue
+Insomnia
+Depression
+Irritability
+Impotence
+Sexual dysfunction
+Memory loss
+Breath holding
+Breath gasping Breathing interruptions
+Mood disorder
+Cognitive dysfunction
+Coronary artery disease
+Congestive heart failure
+Atrial fibrillation
+Type 2 diabetes mellitus
+Hypertension
+Arrhythmias
+Stroke
+Coronary heart disease
+Atherosclerosis
+Nocturia
+Metabolic abnormalities
+Drug-resistant secondary hypertension
+Nocturnal non dipping blood pressure profiles
+Impairment of growth
+Hyperlipidemia
+Nocturnal choking
+Nocturnal gasping
+Restless sleep
+Epworth Sleepiness Scale
+Chronic obstructive pulmonary disease
+COPD
+Breathing abnormalities
+Choking episodes
+Pulmonary hypertension
+Quality of life
+Quality of sleep
+Couple life
+marital status
+Sudden death
+Reduction of air flow
+Apneas
+Hypopneas
+inspiratory flow limitation
+IFL
+Apnea hypopnea index
+AHI
+Oxygen desaturation index
+ODI
+Polysomnography signals
+Neurophysiological signals
+EEG
+EMG
+Cardiac signals
+Respiratory signals
+Respiratory polygraphy
+Oximetry
+Sleep study
+Full polysomnography
+overnight oximetry
+oronasal airflow
+nightmares
+bad dream
+nocturnal sweating

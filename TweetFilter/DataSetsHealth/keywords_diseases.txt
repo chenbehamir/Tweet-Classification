@@ -1,0 +1,107 @@
+AIDS
+allergies
+Alzheimer's
+anxiety disorders
+arthritis
+asthma
+astigmatism
+autoimmune diseases
+benign prostate hyperplasia
+BPH
+bipolar disorder
+manic-depressive
+brain cancer
+breast cancer
+cancer
+candidiasis
+cataracts
+celiac
+cervical cancer
+chicken pox
+chlamydia
+chronic fatigue syndrome
+CFS
+chronic illness
+cold sores
+colon cancer
+constipation
+common cold
+COPD
+cough
+Crohn's disease
+cystic fibrosis
+dementia
+diabetes
+diarrhea
+depression
+eczema
+endometriosis
+eye disorders
+fibroids
+fibromyalgia
+flu
+influenza
+food poisoning
+Gallstones
+genital herpes
+gonorrhea
+Graves' disease
+Hashimoto's thyroiditis
+hay fever
+headache
+heart disease
+hemochromatosis
+hepatitis
+herpes
+high cholesterol
+HIV
+Hodgkin's disease
+HPV
+human papilloma virus
+hypertension
+impotence
+insomnia
+irritable bowel syndrome
+jaundice
+kidney disease
+lactose intolerance
+leukemia
+liver cancer
+liver disease
+lung cancer
+lupus
+Lyme
+lymphoma
+meningitis
+meningococcal
+menopause
+mental illness
+myopia
+migraine
+multiple sclerosis
+muscular dystrophy
+narcolepsy
+obesity
+osteoporosis
+otitis media
+ear infection
+ovarian cancer
+overweight
+pain
+Parkinson's
+pelvic inflammatory
+pertussis
+pregnancy
+pregnant
+premenstrual
+PMS
+prostate
+Raynaud's
+SARS
+sexually transmitted
+sleep disorders
+smoking
+stroke
+thrush
+thyroid
+whooping cough
